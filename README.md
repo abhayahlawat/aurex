@@ -132,7 +132,7 @@ npm install -g expo-cli
 ### Step 2 — Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/aurex.git
+git clone https://github.com/abhayahlawat/aurex.git
 cd aurex
 ```
 
